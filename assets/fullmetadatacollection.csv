@@ -1,4 +1,4 @@
-objectid,title,photographer,date,description,breed,age,rights,filename,format,filesize,filedate
+objectid,title,creator,date,description,breed,age,rights,image,format,filesize,filedate
 R-001,Curious Cat,"Backes, Olivia",2025-08-16,Louie is standing on the door frame to the old shed he was found in.,Tabby,4 Months,"CC Olivia Backes, 2025",R-001.jpg,JPEG,4 MB,2026-04-12
 R-002,Carrier Prince(ss),"Backes, Olivia",2025-08-26,"On our drive back from the farm, Louie is resting in his carrier. We are on our way to his first veterinary appointment.",Tabby,4 Months,"CC Olivia Backes, 2025",R-002.jpg,JPEG,9.7 MB,2026-04-12
 R-003,Sleepy Kitty,"Backes, Olivia",2025-08-26,"After Louie's first vet appointment, he is taking his first nap in my bed. He has earmites from living in the barn. ",Tabby,4 Months,"CC Olivia Backes, 2025",R-003.jgp,JPEG,5.6 MB,2026-04-12
